@@ -1,10 +1,8 @@
 Oracle Java 6 On Debian
 =======================
 
-
 Rationale
 ---------
-
  * Most of our software didn't work with OpenJDK on debian stable `Squeeze`.
  * All our software is tested and works with Oracle Java 6.
  * It's much less work to backport oracle java as all the QA has
@@ -13,7 +11,6 @@ Rationale
 
 Build Instructions
 ------------------
-
 - Download oracle sun java 6 binary packages (.bin NOT .rpm) for both 32 and 64 bit
 - Copy both .bin files into the repository
 - mv jdk-6u30-linux-x64.bin jdk-6u30-linux-amd64.bin
