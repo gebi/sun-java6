@@ -23,10 +23,10 @@ Build Instructions
 Changelog
 ---------
 
-6u31:
+*6u31*:
 
-- google appengine apps do not start anymore (timezone handling)
+- google appengine apps do not start anymore, timezone _defaultZoneTL_ does not exist anymore in 6u31 (http://code.google.com/p/googleappengine/issues/detail?id=6928)
 
-6u30:
+*6u30*:
 
 - no known problems
