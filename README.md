@@ -24,7 +24,9 @@ Changelog
 ---------
 
 6u31:
+
 - google appengine apps do not start anymore (timezone handling)
 
 6u30:
+
 - no known problems
