@@ -17,3 +17,4 @@ Build Instructions
 - Create .orig.tar.gz file (e.g sun-java6_6.30.orig.tar.gz)
 - Rename repository from sun-java6 to sun-java6-6.RELEASE (e.g sun-java6-6.30, you can also just use git-new-workdir)
 - debuild -uc -us -i'(.git|README)'
+- debuild -uc -us -i'(.git|README)' -ai386 -B   (to build the 32bit version)
