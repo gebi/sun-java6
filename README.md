@@ -18,3 +18,13 @@ Build Instructions
 - Rename repository from sun-java6 to sun-java6-6.RELEASE (e.g sun-java6-6.30, you can also just use git-new-workdir)
 - debuild -uc -us -i'(.git|README)'
 - debuild -uc -us -i'(.git|README)' -ai386 -B   (to build the 32bit version)
+
+
+Changelog
+---------
+
+6u31:
+- google appengine apps do not start anymore (timezone handling)
+
+6u30:
+- no known problems
