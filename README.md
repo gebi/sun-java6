@@ -1,6 +1,11 @@
 Oracle Java 6 On Debian
 =======================
 
+!! ABANDONED !! - use java-package (make-jpkg) which went into debian again!
+
+* This package does not build anymore with java 6u37
+
+
 Rationale
 ---------
  * Most of our software didn't work with OpenJDK on debian stable `Squeeze`.
