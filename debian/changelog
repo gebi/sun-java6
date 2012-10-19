@@ -1,3 +1,9 @@
+sun-java6 (6.37-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Michael Gebetsroither <michael@mgeb.org>  Fri, 19 Oct 2012 17:58:23 +0200
+
 sun-java6 (6.31-1) unstable; urgency=low
 
   *  New upstream release.
